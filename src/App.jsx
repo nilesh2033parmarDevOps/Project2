@@ -11,7 +11,7 @@ export default function App() {
         <div className="box">
           <h3>Tech Stack:</h3>
           <ul>
-            <li>⚛️ React</li>
+            <li>⚛️ React Nativ</li>
             <li>📦 Node.js</li>
             <li>🐙 GitHub</li>
             <li>⚙️ GitHub Actions</li>
